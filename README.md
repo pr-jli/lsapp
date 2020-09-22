@@ -9,7 +9,6 @@
 -   OpenSSL PHP Extension
 -   PDO PHP Extension
 -   Mbstring PHP Extension
--   Tokenizer PHP Extension
 -   XML PHP Extension
 
 ### Installing
@@ -62,3 +61,11 @@ php artisan serve --help
 ```
 
 ### Screenshots:
+
+![alt text](https://github.com/pr-jli/lsapp/blob/master/screenshots/Screenshot%20(24).png)
+
+![alt text](https://github.com/pr-jli/lsapp/blob/master/screenshots/Screenshot%20(26).png)
+
+![alt text](https://github.com/pr-jli/lsapp/blob/master/screenshots/Screenshot%20(27).png)
+
+![alt text](https://github.com/pr-jli/lsapp/blob/master/screenshots/Screenshot%20(23).png)
